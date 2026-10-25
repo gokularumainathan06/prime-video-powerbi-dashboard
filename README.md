@@ -2,7 +2,7 @@
 
 > **My first Power BI dashboard.** Built as a *shadow learning* project: I followed a YouTube tutorial step by step to learn the Power BI workflow, then used what I learned to build my second project from scratch on my own: [Healthcare RCM Analytics Dashboard](https://github.com/YOUR-USERNAME/rcm-powerbi-dashboard).
 
-![Prime Video dashboard](Screenshots/01_dashboard)
+![Prime Video dashboard](screenshots/01_dashboard.png)
 
 ---
 
